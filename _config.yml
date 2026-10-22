@@ -1,0 +1,5 @@
+# Website Overview Studio: public pages (homepage, privacy policy, terms), served by GitHub Pages.
+# To change the site name or description, edit the two lines below and save ("Commit changes").
+title: Website Overview Studio
+description: The publishing tool behind the TutorialLore YouTube channel.
+theme: jekyll-theme-minimal
